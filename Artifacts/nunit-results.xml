@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="5" result="Passed" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.1687662">
+  <test-suite type="TestSuite" id="1000" name="Rekindle" fullname="Rekindle" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.168766" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1008" name="Rekindle.Tests.dll" fullname="C:/Users/Dex/Rekindle-GPT/Library/ScriptAssemblies/Rekindle.Tests.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.132203" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="29460" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1009" name="Rekindle" fullname="Rekindle" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.131295" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1010" name="Tests" fullname="Rekindle.Tests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.130966" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1002" name="GameplayTests" fullname="Rekindle.Tests.GameplayTests" classname="Rekindle.Tests.GameplayTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.127845" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1005" name="BossDefeatIsIdempotent" fullname="Rekindle.Tests.GameplayTests.BossDefeatIsIdempotent" methodname="BossDefeatIsIdempotent" classname="Rekindle.Tests.GameplayTests" runstate="Runnable" seed="977736534" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.047216" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="InventoryTransactionIsAtomic" fullname="Rekindle.Tests.GameplayTests.InventoryTransactionIsAtomic" methodname="InventoryTransactionIsAtomic" classname="Rekindle.Tests.GameplayTests" runstate="Runnable" seed="753089003" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.001274" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="MissingRequirementsRejectRestoration" fullname="Rekindle.Tests.GameplayTests.MissingRequirementsRejectRestoration" methodname="MissingRequirementsRejectRestoration" classname="Rekindle.Tests.GameplayTests" runstate="Runnable" seed="1742226385" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.000548" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="OverspendingDoesNotMutatePool" fullname="Rekindle.Tests.GameplayTests.OverspendingDoesNotMutatePool" methodname="OverspendingDoesNotMutatePool" classname="Rekindle.Tests.GameplayTests" runstate="Runnable" seed="1469749888" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.002121" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1007" name="SnapshotRestoresDungeonAndDepletion" fullname="Rekindle.Tests.GameplayTests.SnapshotRestoresDungeonAndDepletion" methodname="SnapshotRestoresDungeonAndDepletion" classname="Rekindle.Tests.GameplayTests" runstate="Runnable" seed="1086274171" result="Passed" start-time="2026-10-19 03:26:03Z" end-time="2026-10-19 03:26:03Z" duration="0.000903" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/Dex/AppData/LocalLow/Rekindle Studio/Rekindle\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

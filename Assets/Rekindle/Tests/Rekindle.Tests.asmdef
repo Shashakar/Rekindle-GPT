@@ -1,0 +1,1 @@
+{"name":"Rekindle.Tests","references":["Rekindle.Runtime"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}

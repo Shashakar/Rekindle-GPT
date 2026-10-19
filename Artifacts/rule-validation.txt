@@ -1,0 +1,12 @@
+PASS Damage clamps at zero; death once
+PASS Resource spending and regeneration
+PASS Inventory capacity and stacking
+PASS Inventory transaction cannot partially consume
+PASS Inventory slot swap and invalid snapshot
+PASS Restoration requirements commit before notification
+PASS Hostility range and dead targets
+PASS Encounter and dungeon completion idempotence
+PASS Complete restoration storyline and capability consequence
+PASS Snapshot roundtrip preserves actual world and inventory
+PASS Safe writes and corrupt-primary recovery
+PASS Authored scene integration

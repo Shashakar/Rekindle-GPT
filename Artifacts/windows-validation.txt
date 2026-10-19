@@ -1,0 +1,6 @@
+PASS Final non-Development Windows build: 0 errors, 2 warnings, 104286248 reported bytes.
+PASS Standalone process launched and created the Rekindle game window.
+PASS Authored scene loaded; all 7 enemies bound to saved NavMesh (12285 vertices).
+BLOCKED Automated Begin/movement/interaction/save: foreground-window access refused by Windows desktop session. No successful standalone input or save check claimed.
+Full Windows restoration walkthrough and natural player experience remain unvalidated.
+See windows-player.log and windows-navigation.txt; Unity integration evidence is separate.

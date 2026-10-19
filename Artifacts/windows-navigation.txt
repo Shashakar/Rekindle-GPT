@@ -1,0 +1,8 @@
+Standalone navigation diagnostic: all seven authored agents bound by Start; saved navmesh contains 12,285 vertices. Initial agent-enable warnings precede successful registration.
+REKINDLE_NAV warden bound=True vertices=12285
+REKINDLE_NAV sanctuary-2 bound=True vertices=12285
+REKINDLE_NAV sanctuary-3 bound=True vertices=12285
+REKINDLE_NAV road-1 bound=True vertices=12285
+REKINDLE_NAV sanctuary-1 bound=True vertices=12285
+REKINDLE_NAV road-2 bound=True vertices=12285
+REKINDLE_NAV road-3 bound=True vertices=12285

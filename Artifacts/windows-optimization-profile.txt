@@ -1,0 +1,1 @@
+Windows prototype: Mono scripting backend; Burst AOT disabled through the package's platform settings. Managed fallback retains gameplay. Native optimization and performance profiling are deferred.

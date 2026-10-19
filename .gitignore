@@ -112,3 +112,27 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local automation requests and scratch diagnostics
+/Artifacts/*.request
+/Artifacts/*desktop*.png
+/Artifacts/editor-log-tail.txt
+/Artifacts/save-test.json*
+/Artifacts/editor-pid.txt
+# Keep reviewed delivery evidence; local diagnostics and save fixtures stay local.
+/Artifacts/*
+!/Artifacts/01-arrival.png
+!/Artifacts/01-arrival-hud.png
+!/Artifacts/02-sanctuary.png
+!/Artifacts/02-sanctuary-hud.png
+!/Artifacts/03-rekindled.png
+!/Artifacts/03-rekindled-hud.png
+!/Artifacts/rule-validation.txt
+!/Artifacts/nunit-results.xml
+!/Artifacts/nunit-summary.txt
+!/Artifacts/runtime-validation.txt
+!/Artifacts/reload-result.txt
+!/Artifacts/build-result.txt
+!/Artifacts/windows-validation.txt
+!/Artifacts/windows-navigation.txt
+!/Artifacts/windows-optimization-profile.txt

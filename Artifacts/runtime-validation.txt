@@ -1,0 +1,19 @@
+PASS Main menu initializes
+PASS Begin journey enters gameplay
+PASS Input System W moves CharacterController
+PASS Elian introduces authored soul restoration premise
+PASS Lost souls retain individual authored identities
+PASS Gathering feeds shared inventory and depletes nodes
+PASS Depleted gathering commands cannot duplicate inventory rewards
+PASS House restoration completes through contextual commands
+PASS Forge awaits identity anchor
+PASS Encounter reset restores health and idle state
+PASS Shared combat defeats guardian and commits encounter progress
+PASS Boss combat releases both authored anchors and changes world phase
+PASS Cleansed waystone returns player to settlement
+PASS Mira returns and equips Dawn Blade
+PASS Final restoration completes coherent story
+PASS Saved snapshot retains restored world and dungeon state
+PASS Continue restores final world phase, equipment, and dungeon after full scene reload
+PASS Defeated boss stays absent after Continue
+COMPLETE: Runtime command walkthrough; test teleports and temporary player invulnerability used. Combat timing, gathering, restoration, and save use production rules. Manual experience/visual assessment remains separate.
